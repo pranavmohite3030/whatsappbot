@@ -4,7 +4,7 @@ import random
 import subprocess
 
 # List of contacts (Numbers should be saved in WhatsApp)
-contacts = ["7058258664","7875064477"]           
+contacts = ["7058258664","8830975020"]           
 
 # List of messages to send
 messages = [
